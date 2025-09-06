@@ -1,5 +1,5 @@
 # Pygame_Media_Player
-#A MP3 Player was writen in Paygame
+A MP3 Player was writen in Paygame
 
 This project is a feature-rich audio player developed in Python, leveraging the Pygame library for its graphical user interface (GUI) and audio playback functionalities. It's designed to provide a comprehensive and visually engaging music experience on a desktop environment.
 
